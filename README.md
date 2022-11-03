@@ -6,5 +6,5 @@ Item name: Frog
 <br>
 Attributes of Frog
 <br>
-age:6, color:"green", lifeSpan:20
+age:int, color:String, lifeSpan:String
 
